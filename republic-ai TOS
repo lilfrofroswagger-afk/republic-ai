@@ -1,0 +1,19 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Republic AI Legal</title>
+</head>
+<body>
+  <h1>Republic AI</h1>
+
+  <h2>Terms of Service</h2>
+  <p>Republic AI is a Discord bot. By using it, you agree not to abuse, spam, or exploit the service. We may update or remove features at any time.</p>
+
+  <h2>Privacy Policy</h2>
+  <p>Republic AI may collect Discord User IDs, Server IDs, and command usage data only for functionality. We do not sell or share data with third parties.</p>
+
+  <h2>Contact</h2>
+  <p>For support or requests, contact the bot owner via Discord.</p>
+</body>
+</html>
